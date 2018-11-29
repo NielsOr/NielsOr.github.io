@@ -5,6 +5,7 @@
   background-position: center;
   background-image: url("workgroup.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 
